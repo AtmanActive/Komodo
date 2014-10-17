@@ -1,11 +1,11 @@
 /**
  * Sort open tabs by tab name, case insensitive.
  * This functionality is already present in current Komodo v8.5,
- * kept here for educational reasons.
+ * kept here for educational purposes.
  *
  * Type:  On Demand
  *
- * @source        https://github.com/Komodo/macros
+ * @source        https://github.com/AtmanActive/Komodo/tree/master/Macros
  * @forum         https://community.activestate.com/forum/sorting-tabs
  * @author        toddw & r.izumita
  * @version       0.1
