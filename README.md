@@ -3,7 +3,7 @@ Komodo Edit Tab Sorting Macros
 
 Macros and other code snippets for enhancing Komodo Edit functionality
 
-- Tabs_Sort_by_Name.js - Sort open tabs by name
+- Tabs_Sort_by_Name.js - Sort open tabs by name (already in the core functionality)
 - Tabs_Sort_by_Extension_then_Filename.js - Sort open tabs by name but grouping by extension
 - Tabs_Sort_by_Path.js - Sort open tabs by path
 
